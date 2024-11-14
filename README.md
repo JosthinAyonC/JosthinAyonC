@@ -1,17 +1,123 @@
-<h1 align="center">Hi 👋, I'm Josthin Ayón</h1>
-<h3 align="left">I am a software developer, I really like to learn and collaborate, if you want to develop with me, send me a message.</h3>
 
-- 🌱 I’m currently learning **about aws.**
+    <h1 align="center">Hi 👋, I'm Josthin Ayón</h1>
+    <h3 align="center">A passionate full stack developer, always eager to learn and collaborate. Feel free to reach out
+        if you're interested in building something together!</h3>
+    <ul>
+        <li>🌱 I’m currently deepening my knowledge in <b>AWS</b>.</li>
+        <li>💬 Ask me about <b>Java frameworks</b>, especially <b>Spring Boot</b>.</li>
+        <li>📫 Reach me at <b>josthinayon@gmail.com</b></li>
+    </ul>
 
-- 💬 Ask me about **Springboot, and java frameworks.**
+    <h3 align="center">Connect with me:</h3>
+    <p align="center">
+        <a href="https://twitter.com/josthin_ayon" target="blank">
+            <img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+                alt="josthin_ayon" height="30" width="40" />
+        </a>
+        <a href="https://linkedin.com/in/josthin-ayon" target="blank">
+            <img align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                alt="josthin-ayon" height="30" width="40" />
+        </a>
+    </p>
 
-- 📫 How to reach me **josthinayon@gmail.com.**
+    <h3 align="center">Languages and Tools:</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/josthin_ayon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="josthin_ayon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/josthin-ayon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josthin-ayon" height="30" width="40" /></a>
-</p>
+    <h1>💻 Technologies:</h1>
+    <b>
+        <h2 align="left">Frontend:</h2>
+    </b>
+    <p align="center">
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                alt="react" width="40" height="40" /></a>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img
+                src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /></a>
+        <a href="https://angular.io" target="_blank" rel="noreferrer"><img
+                src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40"
+                height="40" /></a>
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
+                src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
+                height="40" /></a>
+        <a href="https://storybook.js.org/" target="_blank" rel="noreferrer"><img
+                src="https://cdn.worldvectorlogo.com/logos/storybook-1.svg" alt="storybook" width="40"
+                height="40" /></a>
+        <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img
+                src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40"
+                height="40" /></a>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+    </p>
+
+    <b>
+        <h2 align="left">Backend:</h2>
+    </b>
+    <p align="center">
+        <a href="https://spring.io/" target="_blank" rel="noreferrer"><img
+                src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"
+                height="40" /></a>
+        <a href="https://quarkus.io/" target="_blank" rel="noreferrer"><img
+                src="https://quarkus.io/assets/images/brand/quarkus_icon_1024px_default.png" alt="quarkus" width="40"
+                height="40" /></a>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                alt="nodejs" width="40" height="40" /></a>
+        <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+                alt="typescript" width="40" height="40" /></a>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+                alt="postgresql" width="40" height="40" /></a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                alt="mongodb" width="40" height="40" /></a>
+        <a href="https://www.php.net" target="_blank" rel="noreferrer"><img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
+                width="40" height="40" /></a>
+        <a href="https://www.postgraphile.org/" target="_blank" rel="noreferrer"><img
+                src="https://www.graphile.org/images/postgraphile.optimized.svg" alt="postgraphile" width="40"
+                height="40" /></a>
+        <a href="https://worker.graphile.org/" target="_blank" rel="noreferrer"><img
+                src="https://worker.graphile.org/img/logo.optimized.svg" alt="graphile worker" width="40"
+                height="40" /></a>
+    </p>
+
+    <h4 align="left">Additional Skills:</h4>
+    <ul>
+        <li>
+            <b>Deployment Tools:</b>
+            <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img
+                    src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40"
+                    height="40" /></a>
+            <a href="https://docs.docker.com/compose/" target="_blank" rel="noreferrer"><img
+                    src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker Compose" width="40"
+                    height="40" /></a>
+            <a href="https://www.serverless.com/" target="_blank" rel="noreferrer"><img
+                    src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" alt="Serverless" width="40"
+                    height="40" /></a>
+            <a href="https://www.openshift.com/" target="_blank" rel="noreferrer"><img
+                    src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="OpenShift" width="40"
+                    height="40" /></a>
+            <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img
+                    src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub Actions" width="40"
+                    height="40" /></a>
+        </li>
+        <li>
+            <b>Cloud Providers:</b>
+            <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img
+                    src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40"
+                    height="40" /></a>
+            <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img
+                    src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud"
+                    width="40" height="40" /></a>
+            <a href="https://www.oracle.com/cloud/" target="_blank" rel="noreferrer"><img
+                    src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle Cloud" width="40"
+                    height="40" /></a>
+        </li>
+        <li>
+            <b>Other Skills:</b>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux"
+                width="40" height="40" />
+            <small>Experienced with Linux development and creating readable, clear documentation</small>
+        </li>
+    </ul>
